@@ -52,7 +52,7 @@ class _SplashScreenState extends State<SplashScreen> {
             ),
           ),
           const Spacer(
-            flex: 3,
+            flex: 2,
           ),
           Text(
             'The best chat app of this century',
